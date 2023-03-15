@@ -4,7 +4,7 @@ def large_letters(text):
     return text.upper()
 
 
-print(large_letters('python very good languages'))
+print(large_letters('python very nice languages'))
 
 
 def large_first_letters(text):
@@ -12,5 +12,5 @@ def large_first_letters(text):
     в введенной строке в верхний регистр"""
     return text.title()
 
-print(large_first_letters('python very good languages'))
+print(large_first_letters('python very nice languages'))
 
